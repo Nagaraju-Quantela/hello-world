@@ -1,2 +1,2 @@
 # hello-world
-just another repository for practice
+Hi! Myself a human. Read me.
